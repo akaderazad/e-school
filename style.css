@@ -1,0 +1,100 @@
+.container{
+    padding-bottom: 5px;
+}
+.banner-bg{
+    background-color: #F0FFF0;
+}
+
+.navbar-brand{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    
+
+}
+.btn-success{
+    border-radius: 20px;
+}
+.schedule{
+    color: green;
+}
+.banner{
+    padding: 50px;
+}
+.banner-img{
+    width: 550px;
+    height: 350px;
+}
+.learn{
+    color: #FD511A;
+}
+.banner-text{
+    color: #6C6B6B;
+}
+.gap{
+    margin: 20px;
+}
+.card{
+    padding: 10px 10px 0px 10px;
+    background-color: #F8FFFB;
+    text-align: center;
+}
+.card:hover{
+    background-color: white;
+}
+.card-img{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    
+}
+.card-text{
+    color: #585859;
+}
+.courses{
+    text-align: center;
+    margin: 10px;
+}
+.card2{
+    text-align: left;
+}
+.calender{
+    width: 25px;
+    height: 25px;
+}
+.people{
+    width: 20px;
+    height: 20px;
+}
+.testimonial{
+    text-align: center;
+}
+.man{
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+.testimonial-man-img{
+    padding: 30px;
+}
+ul{
+    list-style-type: none;
+}
+.last-cont{
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+footer{
+    padding-top: 30px;
+    background-color: black;
+    text-align: center;
+    color: #CDCDCD;
+}
+.input{
+    border-radius: 10px;
+}
